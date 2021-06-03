@@ -1,6 +1,6 @@
 # gpa
-cGPA Calculator for university students. This calculator is created by a ODTU (METU) student.   
-The system used in this project is the form of `AA/BA/BB/CB/CC/DC/DD/FD/FF`.   
+cGPA Calculator for university students. This calculator is created by a ODTÜ (METU) student, me.   
+So, the system used in this project is the form of `AA/BA/BB/CB/CC/DC/DD/FD/FF` as used in ODTÜ.   
 `AA` is counted as **4** points, `BB` is counted as **3** points, `BA` is counted as **3.5** points, till the `FF` which is counted as **0** point.
 # How to use  
 First, compile the gpa.c file as below;  
