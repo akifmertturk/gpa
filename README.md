@@ -20,6 +20,7 @@ then to see how to use it, run it;
 * '.' (nokta) koyunuz  *
 ************************
 ```  
+**Important** : Please type `FF` instead of `NA` as input.
 ## Example Usage  
 **Input** >>  
 ```
