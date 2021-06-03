@@ -31,6 +31,25 @@ MATH119 : 5 BB.
 **Output** >>  
 ```
 ************************
+*By Miraç Akif Merttürk*
+************************
+*Lütfen inputları şu   *
+*şekilde giriniz :     *
+*CourseName :          *
+*kredi_sayısı harfNotu,*
+* ':' ve ',' unutmayın *
+*en sona ise ',' yerine*
+* '.' (nokta) koyunuz  *
+***********************
+CENG140 : 4 AA,
+CENG384 : 3 DC,
+MATH119 : 5 BB.
+*                      *
+*CENG140 : AA - 4 kredi*
+*CENG384 : DC - 3 kredi*
+*MATH119 : BB - 5 kredi*
+
+************************
 *                      *
 *     cGPA = 2.96 !    *
 *                      *
