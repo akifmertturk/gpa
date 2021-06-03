@@ -36,7 +36,7 @@ MATH119 : 5 BB.
            ~~           
 
 ```  
-If you want to use a file as input file, then save the input values in a `.txt` file,  
+If you want to use a file as inputand save it for the later usage, then create a `.txt` file, save the input values in that file,  
 and then type the following command;  
 `./gpa < input-file-name.txt`  
 That's it!
